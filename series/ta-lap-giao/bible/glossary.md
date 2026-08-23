@@ -47,5 +47,5 @@
 | Thiết Bích Môn | Tổ chức | Đối thủ thô kệch, thua vì địa hình có cột đá | ch23 |
 | Vân Hải Các | Tổ chức | Môn danh giá thắng đẹp Bạch Thảo ở vòng 2 | ch24 |
 | Viên Trọng | Nhân vật | Phó tông chủ Huyền Kiếm, phe đối đầu Thượng Quan Liệt; thuê Vũ Khang | ch36 |
-| Ma Uyên Chủ | Nhân vật | Thủ lĩnh ma đạo tái xuất; tìm "chìa khóa linh căn tạp"; mời hợp tác bị từ chối. Gag chốt: ma đạo hô y là "Ông Khoa" (ch43) — tên thật không ai biết, GIỮ bí ẩn làm running gag | nhắc ch1 / ra mặt ch37 |
+| Ma Uyên Chủ | Nhân vật | Thủ lĩnh ma đạo tái xuất; tìm "chìa khóa linh căn tạp"; mời hợp tác bị từ chối. Gag chốt: ma đạo hô y là "Ông Khoa" (ch43) — tên thật không ai biết, GIỮ bí ẩn làm running gag | nhắc ch30 / thư ch37 / ra mặt ch43 |
 | Bạch Mạo Môn | Thuật ngữ | Tên bị đăng ký nhầm khi dự Đại tỷ đấu, thành tên công khai bên ngoài; "Bạch Thảo Môn" vẫn là tên thật (nội bộ + văn bản nội môn). Văn bản liên minh chính thức dùng tên đang đăng ký = Bạch Mạo | ch16 |
