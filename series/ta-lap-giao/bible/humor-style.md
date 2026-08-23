@@ -25,7 +25,7 @@
 
 ## 3. Công thức chương
 
-- Độ dài: **1.500–2.200 chữ**, ~70% thoại.
+- Độ dài: ~4.000 ký tự (3.800–4.500, chuẩn chung ở conventions.md — quy định duy nhất về độ dài). Tỷ lệ thoại: arc hài 50–70%, arc nghiêm trọng 35–55%.
 - **Mở:** cold-open — hậu quả chương trước qua mắt nạn nhân/người ngoài, hoặc MC tỉnh dậy/đối diện nguy hiểm mới và lẩm bẩm số chương tương ứng trong nguyên tác. CẤM recap dài dòng.
 - **Giữa:** 2–4 beat: khối căng → phương án "né" của MC → ai đó diễn dịch sai → reaction shot.
 - **Kết:** luân phiên 3 kiểu — hook rượt / punchline vật lý nhẹ / MC tuyên bố phương án sống sót khiến cả môn "mộng bức".
@@ -58,7 +58,7 @@
 4. **"Đóng cửa":** mọi khủng hoảng MC đều đề xuất đóng cửa sơn môn; dần trở thành truyền kỳ "Bạch Thảo bất chiến" — không đánh mà vẫn thắng.
 5. **Gag tên:** đệ tử đặt tên kỹ thuật/công thức nông nghiệp theo phong cách công pháp ("Cửu chuyển hồ tiêu thủy") dù bản chất chỉ là kiến thức đời thường.
 6. **Ấn gỗ nhẹ đến đáng buồn:** setup ở ch1; payoff dần theo arc — khắc thêm tên, đúc khung bạc, cuối cùng "nặng vì gắn quá nhiều bảng hiệu" — thước đo vật lý cho sự lớn mạnh của môn phái.
-7. **"Chợ di động":** mọi sự kiện lớn đều bị Hạ Tiểu Đường quy đổi ra cơ hội kinh doanh ("đại tỷ đấu là tam mươi sáu cái chợ di động").
+7. **"Chợ di động":** mọi sự kiện lớn đều bị Hạ Tiểu Đường quy đổi ra cơ hội kinh doanh ("đại tỷ đấu là ba mươi sáu cái chợ di động").
 8. **Biệt danh ngoài lề:** mỗi thành tựu bất ngờ của môn đều kèm một biệt danh dân chợ đặt ("tiên sư dự ngôn", "vận bảo đội", "quỷ mưu chưởng môn") — càng oai càng vô lý.
 9. **"Trúc Cơ mới toanh":** cách thiên hạ gọi bất kỳ ai vừa đột phá — dùng cho Thạch Cuồng và sau này là Mặc Nghiêm.
 

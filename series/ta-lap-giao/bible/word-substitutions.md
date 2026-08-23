@@ -9,7 +9,7 @@ Mỗi từ chỉ chốt **1 phương án duy nhất** (không để nhiều lự
 
 | Hiện đại | Chốt dùng | Ghi chú |
 |---|---|---|
-| tôi (Vân Thư tự xưng, kể cả khi buột miệng) | ta | Vân Thư luôn xưng "ta" — không lẫn "tôi", kể cả lúc nói 1 mình/không phòng bị |
+| tôi / mình (Vân Thư tự xưng, kể cả buột miệng lẫn nội tâm) | ta | Vân Thư luôn xưng "ta" — cấm cả "tôi" lẫn "mình" khi nói về bản thân. Riêng "mình" của Hạ Tiểu Đường/Thạch Cuồng là khẩu ngữ tự nhiên của họ, GIỮ NGUYÊN |
 | tôi (nhân vật khác, khiêm nhường) | đệ tử / vãn bối | tùy vai vế |
 | ông (gọi người lớn tuổi, kính trọng) | tiền bối | |
 | ông già (mỉa mai, thân mật) | lão nhân gia này | chốt dùng cụm này mỗi khi Vân Thư mỉa mai người lớn tuổi đã khuất/vắng mặt |
@@ -34,8 +34,8 @@ Mỗi từ chỉ chốt **1 phương án duy nhất** (không để nhiều lự
 
 | Hiện đại | Chốt dùng | Ghi chú |
 |---|---|---|
-| mắt tròn (ngạc nhiên) | trợn tròn mắt | |
-| mắt sáng rực (phấn khích) | mắt sáng quắc | |
+| mắt tròn (ngạc nhiên) | trợn tròn mắt | gợi ý mềm — KHÔNG bắt buộc; mỗi cụm tối đa 2 lần/mỗi arc, ưu tiên diễn đạt mới |
+| mắt sáng rực (phấn khích) | mắt sáng quắc | gợi ý mềm — KHÔNG bắt buộc; tránh biến thành catchphrase |
 | phòng thủ kỹ (đề phòng) | tính xa | phù hợp ngữ cảnh "sư phụ đặt môn quy phòng người mới" |
 | sến | ủy mị | |
 | cute / dễ thương | khả ái | |

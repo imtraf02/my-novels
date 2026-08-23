@@ -403,7 +403,7 @@ No text, no captions, no subtitles, no speech bubbles, no watermark, no modern o
 Deadpan sky-stare: at the edge of the market road, a tall slim young man with long loose black hair, faded robe and straw sandals stands stock-still, head tilted fully back, half-lidded eyes aimed at the drifting clouds above the tiled rooftops, arms hanging limp, one long sigh squiggle rising from his lips. Around him blurred townsfolk continue their excited retelling; a leaf drifts past his face. Rooftop ridgelines and swallows frame the empty sky above. Low-angle medium shot emphasizing his silent surrender to fate.
 
 ## Prompt 7
-> Cảnh này: Chiều — Hạ Tiểu Đường trình kế sách tài chính mới trên bàn tính: nợ hai trăm, hai phần mươi mỗi quý, mười một mùa.
+> Cảnh này: Chiều — Hạ Tiểu Đường trình kế sách tài chính mới trên bàn tính: nợ hai trăm, hai phần mười mỗi quý, mười một mùa.
 
 Hand-drawn Chinese historical storybook illustration, simplified cute cartoon characters, old Chinese historical comic illustration.
 

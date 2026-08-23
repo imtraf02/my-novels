@@ -28,7 +28,9 @@ characters.md, world.md, timeline.md, glossary.md, style-guide.md, humor-style.m
 
 - Thể loại: hài hước / xuyên không / yếu kê lưu / hiểu lầm
 - Số chương trong tên file: 4 chữ số (`ch0007`, không phải `ch7`)
-- **Độ dài mỗi chương: ~4.000 ký tự** (3.800–4.500, tính cả khoảng trắng, không tính frontmatter)
+- **Độ dài mỗi chương: ~4.000 ký tự** (3.800–4.500, tính cả khoảng trắng, không tính frontmatter) — đây là chuẩn duy nhất; bible file nào ghi độ dài khác đều quy về mốc này
+- Tỷ lệ thoại theo arc: hài 50–70%, nghiêm trọng 35–55% (chi tiết ở humor-style.md)
+- Thống nhất số đếm thuần Việt trong narration: "ba mươi sáu tông" (không dùng ghép "tam mươi lục"); giữ Hán Việt cho thứ tự: đại/nhị/tam/tứ đệ tử
 - Độ dài 1 arc: ~30 chương
 - Frontmatter FILE CHƯƠNG: `chapter, arc, title, pov, characters_present, locations, new_characters, key_events, timeline_notes`
 - Frontmatter FILE SUMMARY: `chapter, arc, book`

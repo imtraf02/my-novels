@@ -406,7 +406,7 @@ Do not make realistic anatomy or realistic skin.
 
 No text, no captions, no subtitles, no speech bubbles, no watermark, no modern objects.
 
-Mặc Nghiêm — dáng người cao gầy, đứng thẳng tuyệt đối với vai vuông, tóc búi cao gọn bằng trâm gỗ thô, áo đóng nút thẳng hàng viền cổ sậm màu nếp là sắc nét — ngồi ngay ngắn nơi bậc thềng hiên, cuốn sổ bìa da mở trên đầu gối, bút lông vừa rút khỏi sau tai ghi chép từng chữ với gương mặt trang trọng như sử quan triều đình. Phía sau y qua khung hiên là sân đá với giàn thuốc khô; ở lớp nền xa hơn, Vân Thư — tóc đen dài quá vai cột dải vải thô, áo choàng bạc màu, mắt lim dim — nửa gương mặt hiện trong khung cửa phòng, liếc sang đầy bất lực. Bố cục: trung cảnh Mặc Nghiêm làm chủ thể foreground, Vân Thư thành chi tiết sau khung cửa.
+Mặc Nghiêm — dáng người cao gầy, đứng thẳng tuyệt đối với vai vuông, tóc búi cao gọn bằng trâm gỗ thô, áo đóng nút thẳng hàng viền cổ sậm màu nếp là sắc nét — ngồi ngay ngắn nơi bậc thềm hiên, cuốn sổ bìa da mở trên đầu gối, bút lông vừa rút khỏi sau tai ghi chép từng chữ với gương mặt trang trọng như sử quan triều đình. Phía sau y qua khung hiên là sân đá với giàn thuốc khô; ở lớp nền xa hơn, Vân Thư — tóc đen dài quá vai cột dải vải thô, áo choàng bạc màu, mắt lim dim — nửa gương mặt hiện trong khung cửa phòng, liếc sang đầy bất lực. Bố cục: trung cảnh Mặc Nghiêm làm chủ thể foreground, Vân Thư thành chi tiết sau khung cửa.
 
 ## Prompt 7
 
@@ -682,7 +682,7 @@ Giữa sân đá Bạch Thảo Môn buổi chiều, Mặc Nghiêm — dáng ngư
 
 ## Prompt 11
 
-> Cảnh này: Vân Thư đi ngang nghe được câu đó — suýt trẹo chân ở bậc thềng, chén trà nghiêng sắp đổ.
+> Cảnh này: Vân Thư đi ngang nghe được câu đó — suýt trẹo chân ở bậc thềm, chén trà nghiêng sắp đổ.
 
 Hand-drawn Chinese historical storybook illustration, simplified cute cartoon characters, old Chinese historical comic illustration.
 
@@ -746,7 +746,7 @@ Do not make realistic anatomy or realistic skin.
 
 No text, no captions, no subtitles, no speech bubbles, no watermark, no modern objects.
 
-Trên bậc thềng hiên gỗ, Vân Thư — chàng trai cao gầy vốn mang tư thế lười biếng nay người nghiến hẳn về trước vì trẹo chân mép bậc đá, hai tay vẫy vùng tìm thăng bằng — nét mặt lim dim vỡ oà thành hoảng sợ hoạt hình, một giọt mồ hôi lớn bay khỏi thái dương; tóc đen dài quá vai cột lười bằng dải vải thô với vài sợi tóc rối, áo choàng vải thô bạc màu, dép rơm xộc xệch. Một tay hắn kịp bám cột hiên, chiếc đĩa trà trên tay kia nghiêng sắp đổ, nước chảy thành vệt cong hoạt hình. Ở nền xa giữa sân, Mặc Nghiêm — cao gầy, búi cao trâm gỗ, vai vuông — vẫn đang giảng giải hăng say không hay biết gì. Bố cục: freeze-frame trung cảnh hành động nghiêng người, góc máy hơi thấp tăng cảm giác suýt ngã.
+Trên bậc thềm hiên gỗ, Vân Thư — chàng trai cao gầy vốn mang tư thế lười biếng nay người nghiến hẳn về trước vì trẹo chân mép bậc đá, hai tay vẫy vùng tìm thăng bằng — nét mặt lim dim vỡ oà thành hoảng sợ hoạt hình, một giọt mồ hôi lớn bay khỏi thái dương; tóc đen dài quá vai cột lười bằng dải vải thô với vài sợi tóc rối, áo choàng vải thô bạc màu, dép rơm xộc xệch. Một tay hắn kịp bám cột hiên, chiếc đĩa trà trên tay kia nghiêng sắp đổ, nước chảy thành vệt cong hoạt hình. Ở nền xa giữa sân, Mặc Nghiêm — cao gầy, búi cao trâm gỗ, vai vuông — vẫn đang giảng giải hăng say không hay biết gì. Bố cục: freeze-frame trung cảnh hành động nghiêng người, góc máy hơi thấp tăng cảm giác suýt ngã.
 
 ## Prompt 12
 

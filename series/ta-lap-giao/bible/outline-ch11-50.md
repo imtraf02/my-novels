@@ -7,7 +7,7 @@
 
 ## Danh sách thực thể mới được phép dùng (KHÔNG đặt tên khác)
 
-- **Đại tỷ đấu Cửu Châu**: hội thi tam mươi lục tông, tổ chức ở **Tinh Thành**, vòng bảng + loại trực tiếp + trận xếp hạng.
+- **Đại tỷ đấu Cửu Châu**: hội thi ba mươi lục tông, tổ chức ở **Tinh Thành**, vòng bảng + loại trực tiếp + trận xếp hạng.
 - **Vũ Khang**: cựu đệ tử Huyền Kiếm bị khai trừ, cướp đường hẻm Tà Nguyệt (nhắc ch3), tái xuất ch27/33 làm tay việc thuê.
 - **Tinh Thành Vương phủ**: truy tìm Diệp Trần qua ngọc bội mây chín tầng (ch5).
 - **Thanh Y Môn**: đội trung lưu mạnh, đối thủ ch21.

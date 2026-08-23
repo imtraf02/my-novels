@@ -38,6 +38,7 @@
 
 - Nhân vật chính của 《Cửu Châu Đăng Tiên Lục》; tuyến của hắn quét qua mọi địa điểm lớn.
 - Không ác; càng "chuẩn nguyên tác" càng gây rối cho kế hoạch né chết của MC. Xuất hiện arc 2.
+- Xưng hô với Vân Thư: "tiền bối" khi kính trọng nơi công khai; "Vân huynh" chỉ khi riêng tư/thân mật (từ ch39). Một cảnh công khai không trộn hai kiểu.
 
 ## Cố chưởng môn Thanh Vi真人 (quá cố)
 

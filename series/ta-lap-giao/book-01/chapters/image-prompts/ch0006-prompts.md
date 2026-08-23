@@ -470,7 +470,7 @@ No text, no captions, no subtitles, no speech bubbles, no watermark, no modern o
 Night study scene: a tall slim young man with long black hair tied lazily with a coarse cloth strip, faded coarse robe with faint leaf pattern, holds an opened letter close to an oil lamp flame, his half-lidded eyes narrowed into careful slits as he studies the handwriting, one eyebrow slightly raised. A single sheet of paper lies flat on the desk under the lamp glow, inkstone and brush box arranged neatly. Shadows of bamboo blinds stripe the wall behind him. Close medium shot, lamplight pooling on paper and face.
 
 ## Prompt 8
-> Cảnh này: Vân Thư trầm ngâm viết câu trả lời mười sáu chữ thiên thư bằng bút lông.
+> Cảnh này: Vân Thư trầm ngâm viết câu trả lời mười hai chữ thiên thư bằng bút lông.
 
 Hand-drawn Chinese historical storybook illustration, simplified cute cartoon characters, old Chinese historical comic illustration.
 

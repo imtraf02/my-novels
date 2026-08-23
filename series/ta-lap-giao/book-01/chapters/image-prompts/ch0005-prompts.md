@@ -135,7 +135,7 @@ No text, no captions, no subtitles, no speech bubbles, no watermark, no modern o
 Dưới vách đá dựng đứng sau núi Thanh Vi trong đêm mưa, Diệp Trần — thiếu niên gầy nhánh, đứng không yên; tóc rối, buộc băng vải che trán; áo vải thô vá nhiều mảnh, kiểu vá khác nhau mỗi vị trí; khối ngọc bội khắc mây chín tầng đeo hông — loạng choạng chạy dọc mép vách trên bờ suối, thân người nghiêng về phía thác nước cuồn cuộn trắng xóa ở đáy vực. Phía sau, ba tên truy binh mặc giáp trụ đơn giản đội mũ giáp, rút kiếm đuổi theo thành thế tam giác. Mưa vẽ bằng các nét xiên mềm; tảng đá và rễ cây cổ thụ bám hai bên vách. Wide action shot chếch xuống từ trên cao, thác và dòng suối làm điểm rơi thị giác, kịch tính nhưng vẫn giữ tông nhạt dịu.
 
 ## Prompt 3
-> Cảnh này: Vân Thư định phao lệnh cấm cửa sau vào sáng mai, thổi dập đèn — chưa kịp nằm xuống.
+> Cảnh này: Vân Thư định ra lệnh cấm cửa sau vào sáng mai, thổi dập đèn — chưa kịp nằm xuống.
 
 Hand-drawn Chinese historical storybook illustration, simplified cute cartoon characters, old Chinese historical comic illustration.
 
