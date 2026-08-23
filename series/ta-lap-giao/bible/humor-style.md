@@ -58,6 +58,9 @@
 4. **"Đóng cửa":** mọi khủng hoảng MC đều đề xuất đóng cửa sơn môn; dần trở thành truyền kỳ "Bạch Thảo bất chiến" — không đánh mà vẫn thắng.
 5. **Gag tên:** đệ tử đặt tên kỹ thuật/công thức nông nghiệp theo phong cách công pháp ("Cửu chuyển hồ tiêu thủy") dù bản chất chỉ là kiến thức đời thường.
 6. **Ấn gỗ nhẹ đến đáng buồn:** setup ở ch1; payoff dần theo arc — khắc thêm tên, đúc khung bạc, cuối cùng "nặng vì gắn quá nhiều bảng hiệu" — thước đo vật lý cho sự lớn mạnh của môn phái.
+7. **"Chợ di động":** mọi sự kiện lớn đều bị Hạ Tiểu Đường quy đổi ra cơ hội kinh doanh ("đại tỷ đấu là tam mươi sáu cái chợ di động").
+8. **Biệt danh ngoài lề:** mỗi thành tựu bất ngờ của môn đều kèm một biệt danh dân chợ đặt ("tiên sư dự ngôn", "vận bảo đội", "quỷ mưu chưởng môn") — càng oai càng vô lý.
+9. **"Trúc Cơ mới toanh":** cách thiên hạ gọi bất kỳ ai vừa đột phá — dùng cho Thạch Cuồng và sau này là Mặc Nghiêm.
 
 ## 7. Điều CẤM (rút từ lỗi bộ tham chiếu)
 
